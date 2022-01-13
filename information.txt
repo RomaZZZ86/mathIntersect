@@ -1,0 +1,332 @@
+Sector at 50 degrees, distance 52 units
+
+
+
+Unit 0,Position(-259, 167), direction(234, 0) 
+
+Unit 1,Position(269, -176), direction(178, 58) 
+
+Unit 2,Position(262, 164), direction(205, 45) 
+
+Unit 3,Position(181, -273), direction(261, -9) 
+
+Unit 4,Position(295, 242), direction(127, -64) 
+
+Unit 5,Position(291, -96), direction(202, 53) 
+
+Unit 6,Position(-8, 82), direction(121, 16) 
+
+Unit 7,Position(218, -205), direction(147, 26) 
+
+Unit 8,Position(71, -162), direction(169, 12) 
+
+Unit 9,Position(167, 199), direction(135, -6) 
+
+Unit 10,Position(203, 111), direction(222, 33) 
+
+Unit 11,Position(-27, 164), direction(241, 11) 
+
+Unit 12,Position(-247, -32), direction(247, -56) 
+
+Unit 13,Position(-38, 57), direction(137, -41) 
+
+Unit 14,Position(23, -159), direction(229, 78) 
+
+Unit 15,Position(16, -265), direction(290, -58) 
+
+Unit 16,Position(-12, -194), direction(140, 42) 
+
+Unit 17,Position(-236, 148), direction(146, -95) 
+
+Unit 18,Position(-10, -171), direction(270, 50) 
+
+Unit 19,Position(-294, 201), direction(293, 48) 
+
+Unit 20,Position(129, -277), direction(184, 54) 
+
+Unit 21,Position(-144, 140), direction(266, 76) 
+
+Unit 22,Position(-169, 208), direction(244, -61) 
+
+Unit 23,Position(-274, 223), direction(237, 38) 
+
+Unit 24,Position(218, -18), direction(229, 41) 
+
+Unit 25,Position(-267, 215), direction(139, -42) 
+
+Unit 26,Position(204, 30), direction(277, 6) 
+
+Unit 27,Position(173, -114), direction(121, 45) 
+
+Unit 28,Position(224, 172), direction(170, -71) 
+
+Unit 29,Position(77, 273), direction(197, 12) 
+
+Unit 30,Position(286, -210), direction(261, -64) 
+
+Unit 31,Position(-145, -133), direction(155, 74) 
+
+Unit 32,Position(131, -248), direction(250, 50) 
+
+Unit 33,Position(-159, -176), direction(266, -70) 
+
+Unit 34,Position(207, -109), direction(107, 37) 
+
+Unit 35,Position(157, -13), direction(253, 83) 
+
+Unit 36,Position(245, 209), direction(109, 58) 
+
+Unit 37,Position(-79, 288), direction(122, 46) 
+
+Unit 38,Position(206, 130), direction(113, 68) 
+
+Unit 39,Position(0, -109), direction(262, -45) 
+
+Unit 40,Position(-290, 59), direction(124, 37) 
+
+Unit 41,Position(248, 183), direction(295, -59) 
+
+Unit 42,Position(-298, 50), direction(191, -64) 
+
+Unit 43,Position(74, -80), direction(296, -79) 
+
+Unit 44,Position(48, 99), direction(168, -16) 
+
+Unit 45,Position(181, 234), direction(153, 99) 
+
+Unit 46,Position(-282, 38), direction(200, 88) 
+
+Unit 47,Position(-173, 167), direction(228, -7) 
+
+Unit 48,Position(-252, -17), direction(107, -79) 
+
+Unit 49,Position(210, -283), direction(113, 14) 
+
+Unit 50,Position(209, 116), direction(235, -49) 
+
+Unit 51,Position(-100, 149), direction(219, 56) 
+
+Unit 52,Position(298, 3), direction(124, -92) 
+
+Unit 53,Position(144, -91), direction(289, 2) 
+
+Unit 54,Position(-105, -215), direction(193, 43) 
+
+Unit 55,Position(223, 87), direction(214, 3) 
+
+Unit 56,Position(-52, -300), direction(158, -82) 
+
+Unit 57,Position(-120, 296), direction(298, -19) 
+
+Unit 58,Position(89, 98), direction(109, 57) 
+
+Unit 59,Position(-228, -78), direction(238, -8) 
+
+Unit 60,Position(-262, -121), direction(290, -43) 
+
+Unit 61,Position(-142, -109), direction(115, -12) 
+
+Unit 62,Position(256, -189), direction(102, -66) 
+
+Unit 63,Position(-28, -45), direction(228, -54) 
+
+Unit 64,Position(262, -214), direction(175, -67) 
+
+Unit 65,Position(169, 42), direction(144, -84) 
+
+Unit 66,Position(-19, -102), direction(222, -49) 
+
+Unit 67,Position(121, -1), direction(257, -24) 
+
+Unit 68,Position(-8, 89), direction(175, 12) 
+
+Unit 69,Position(-100, -190), direction(103, -31) 
+
+Unit 70,Position(161, -12), direction(101, 89) 
+
+Unit 71,Position(-45, -77), direction(102, 85) 
+
+Unit 72,Position(-118, -215), direction(188, -74) 
+
+Unit 73,Position(117, 57), direction(132, 32) 
+
+Unit 74,Position(269, 54), direction(221, 89) 
+
+Unit 75,Position(-124, -171), direction(268, -8) 
+
+Unit 76,Position(125, 55), direction(134, 49) 
+
+Unit 77,Position(-59, 212), direction(245, -40) 
+
+Unit 78,Position(-182, -147), direction(239, -77) 
+
+Unit 79,Position(-221, -104), direction(187, 29) 
+
+Unit 80,Position(49, -263), direction(166, 49) 
+
+Unit 81,Position(-107, 95), direction(197, -84) 
+
+Unit 82,Position(-214, 205), direction(188, -18) 
+
+Unit 83,Position(155, 234), direction(214, 1) 
+
+Unit 84,Position(-184, -29), direction(286, -37) 
+
+Unit 85,Position(-187, 55), direction(285, -47) 
+
+Unit 86,Position(12, -292), direction(132, 45) 
+
+Unit 87,Position(-187, -144), direction(221, 58) 
+
+Unit 88,Position(-54, 82), direction(181, 44) 
+
+Unit 89,Position(96, 122), direction(229, 61) 
+
+Unit 90,Position(-165, -250), direction(273, -34) 
+
+Unit 91,Position(-256, -241), direction(192, -61) 
+
+Unit 92,Position(153, -76), direction(254, 10) 
+
+Unit 93,Position(245, -51), direction(286, 13) 
+
+Unit 94,Position(-26, 122), direction(268, -82) 
+
+Unit 95,Position(-113, 5), direction(258, 91) 
+
+Unit 96,Position(-298, -275), direction(177, -86) 
+
+Unit 97,Position(14, -276), direction(234, -26) 
+
+Unit 98,Position(72, 59), direction(133, -30) 
+
+Unit 99,Position(-13, -203), direction(218, 77) 
+
+
+
+unitsresult:
+
+Unit0: sees 25
+
+Unit2: sees 36
+
+Unit2: sees 41
+
+Unit6: sees 68
+
+Unit6: sees 94
+
+Unit9: sees 45
+
+Unit9: sees 83
+
+Unit10: sees 38
+
+Unit10: sees 50
+
+Unit12: sees 48
+
+Unit13: sees 6
+
+Unit13: sees 68
+
+Unit13: sees 88
+
+Unit16: sees 18
+
+Unit20: sees 32
+
+Unit21: sees 47
+
+Unit24: sees 26
+
+Unit25: sees 23
+
+Unit27: sees 53
+
+Unit27: sees 92
+
+Unit28: sees 36
+
+Unit28: sees 41
+
+Unit30: sees 1
+
+Unit31: sees 61
+
+Unit33: sees 31
+
+Unit35: sees 70
+
+Unit39: sees 66
+
+Unit41: sees 36
+
+Unit42: sees 40
+
+Unit46: sees 40
+
+Unit46: sees 42
+
+Unit47: sees 22
+
+Unit50: sees 38
+
+Unit53: sees 92
+
+Unit54: sees 69
+
+Unit54: sees 72
+
+Unit54: sees 75
+
+Unit55: sees 10
+
+Unit55: sees 38
+
+Unit55: sees 50
+
+Unit58: sees 89
+
+Unit59: sees 12
+
+Unit62: sees 1
+
+Unit64: sees 1
+
+Unit64: sees 62
+
+Unit68: sees 94
+
+Unit70: sees 67
+
+Unit72: sees 69
+
+Unit72: sees 75
+
+Unit73: sees 58
+
+Unit75: sees 31
+
+Unit76: sees 73
+
+Unit78: sees 87
+
+Unit79: sees 59
+
+Unit86: sees 15
+
+Unit86: sees 97
+
+Unit93: sees 24
+
+Unit94: sees 11
+
+Unit97: sees 15
+
+Unit98: sees 58
+
+Unit99: sees 16
+
+Unit99: sees 18
+
