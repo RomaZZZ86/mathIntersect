@@ -1,0 +1,8 @@
+﻿  Using triplet "x64-windows" from "C:\Users\Roman\source\repos\vcpkg-master\installed\x64-windows\"
+  main.cpp
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\library\include\axisVector.h(82,2): warning C4091: typedef : пропускается слева от "axisVector", когда ни одна переменная не объявлена
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\unit\main.cpp(40,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\unit\main.cpp(40,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\unit\main.cpp(40,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\unit\main.cpp(40,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  uintsOFdirection.vcxproj -> C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\x64\Debug\uintsOFdirection.exe

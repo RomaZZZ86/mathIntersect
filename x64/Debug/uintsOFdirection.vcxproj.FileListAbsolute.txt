@@ -1,0 +1,2 @@
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\x64\Debug\uintsOFdirection.exe
+C:\Users\Roman\Documents\Godot\OpenGL-master\uintsOFdirection\x64\Debug\uintsOFdirection.pdb
